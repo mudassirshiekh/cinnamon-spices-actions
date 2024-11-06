@@ -1,4 +1,5 @@
 # cinnamon-spices-actions
+#By Mudassir Alam
 
 ![Validate Spices](https://github.com/linuxmint/cinnamon-spices-actions/workflows/Validate%20Spices/badge.svg)
 
